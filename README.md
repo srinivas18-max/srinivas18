@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B Tech Electronic And Communication Graduate.<br>💻 Skilled in Python, SQL, Excel, Exploring AI tools.<br>Passionate about software development, problem- sloving, and building projects.
+🎓 B Tech Electronic And Communication Graduate.<br>💻 Skilled in Python, SQL,Power BI, Excel, Exploring AI tools.<br>Passionate about software development, problem- sloving, and building projects.
 
 
 ## 🌐 Socials:

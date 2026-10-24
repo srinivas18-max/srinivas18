@@ -22,7 +22,7 @@
 
 🎯 **Goal:** Turn data into insights that support better business decisions.
 
-📫 **Reach me:** [polaganisrinivas18@gmail.com](mailto:polaganisrinivas18@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/p-srinivas-0a4432293)
+📫 **Reach me:** [polaganisrinivas18@gmail.com](mailto:polaganisrinivas18@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/p-srinivas18)
 
 <h2 align="center">Featured projects</h2>
 

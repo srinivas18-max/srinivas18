@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=P.Srinivas&fontSize=52&animation=twinkling" alt="P.Srinivas" />
 </p>
 
-<h1 align="center">Hi, I'm P.Srinivas 👋</h1>
+<h1 align="center">Hi, I'm P.Srinivas 👀</h1>
 
 <p align="center">Aspiring Data Analyst | Power BI | SQL | Python | Excel | Data Visualization</p>
 
